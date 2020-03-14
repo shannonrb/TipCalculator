@@ -1,0 +1,11 @@
+Shannon Bannen
+TipCalculatorFinal
+
+I made a tip calculator using the SeekBar. With the SeekBar a person can select any tip percentage that they want.
+I also added font size, font style, italicization, and background color.
+I also have the tip calculator calculate the tip, the total of the bill, the tip for each person, and the total for each person.
+Also that an error alert appears when nothing is inputted in the fields
+
+I attempted at doing fragments so when the user pressed calculate it would bring them to a different page that displayed all the calculations.
+I also attempted at doing the Spinner and I left some of my code commented out at the bottom of the MainActivity.
+
